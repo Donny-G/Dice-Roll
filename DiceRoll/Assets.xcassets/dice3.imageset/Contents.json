@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "dice3~universal@1x.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "dice3~universal@2x.png"
+    },
+    {
+      "filename" : "dice3~universal@3x.png",
+      "scale" : "3x",
+      "idiom" : "universal"
+    }
+  ]
+}
